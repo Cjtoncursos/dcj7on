@@ -1,0 +1,16 @@
+index.html
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>Mis Cursos en HubSpot</title>  
+    <style>  
+        body { font-family: Arial; text-align: center; padding: 20px; }  
+        a { color: #FF6B6B; }  
+    </style>  
+</head>  
+<body>  
+    <h1>¡Bienvenido a mi página!</h1>  
+    <p>Aquí registro mis cursos en <strong>HubSpot Academy</strong>.</p>  
+    <p><a href="https://academy.hubspot.com/">Ir a HubSpot Academy</a></p>  
+</body>  
+</html>  
